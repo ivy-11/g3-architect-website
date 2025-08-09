@@ -6,3 +6,34 @@
     font-weight: <weight>;
     font-style: normal;
 }
+
+/*shared styles*/
+.display-flex {
+    display: flex;
+}
+
+.text-gray {
+    color: #131313;
+}
+
+.text-light-gray {
+    color: #131313;
+}
+
+/*header styles*/
+
+/*navbar related styles*/
+.navbar {
+    justify-content: space-between;
+}
+
+.nav-items {
+    list-style: none;
+    margin-right: 30px;
+}
+
+nav-links {
+    text-decoration: none;
+    font-weight: 500;
+
+}
